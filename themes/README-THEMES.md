@@ -1,0 +1,2 @@
+Idk why, but the people who made the themes as of now haven't posted their src anywhere. For obvious reasons this is rather silly.
+That's why I have taken the liberty of just adding them to this repository; as the theme json code has merely been released in a discord message form, no licenses have been put in place. Therefore, I am free to re-release the src here, albeit, with author remarks, of course.

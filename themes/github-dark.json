@@ -1,0 +1,18 @@
+{
+  "name": "GitHub Dark",
+  "mode": "dark",
+  "colors": {
+    "background": "#0d1117",
+    "accent": "#4493f8",
+    "surface": "#151b23",
+    "bold": "#f0f6fc",
+    "border": "#3d444d",
+    "italic": "#f0f6fc",
+    "text": "#f0f6fc",
+    "code": "#79c0ff",
+    "textMuted": "#9198a1",
+    "error": "#ff7b72",
+    "success": "#3fb950",
+    "warning": "#d29922"
+  }
+}

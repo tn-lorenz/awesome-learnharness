@@ -1,0 +1,18 @@
+{
+  "name": "Aetheria",
+  "mode": "dark",
+  "colors": {
+    "background": "#090512",
+    "accent": "#c94f63",
+    "surface": "#191027",
+    "bold": "#b7d97a",
+    "border": "#5c2a48",
+    "italic": "#e86f95",
+    "text": "#8cc4c0",
+    "code": "#f2a56b",
+    "textMuted": "#739d9b",
+    "error": "#ef6b86",
+    "success": "#8fce9a",
+    "warning": "#e8c07a"
+  }
+}
