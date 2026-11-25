@@ -21,6 +21,8 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 | [learnharness-anki-bridge](https://github.com/Singh-Mehtab/learnharness-anki-bridge) | [Singh-Mehtab](https://github.com/Singh-Mehtab) | Anki integration: turn nodes into flashcards and send them to Anki | [original msg](https://discord.com/channels/1564700211660722243/1573502198426632312/1573502198426632312) |
 | [Turn Chime](https://github.com/gabriel-603/turn-chime) | [gabriel-603](https://github.com/gabriel-603) | plays a selectable macOS alert sound when the tutor finishes a reply | n.a. |
 | [learnharness-zh-cn-language-pack](https://github.com/zdotta/learnharness-zh-plugin) | [zdotta](https://github.com/zdotta) | Simplified Chinese UI (DOM translation) + Chinese teaching instructions, in-app coverage report and content protection. MIT | n.a. |
+| [learnharness-wikipedia](https://github.com/GGabrielDev/learnharness-wikipedia) | [GaboGGamer](https://github.com/GGabrielDev/) | "Small plugin to use wikipedia's free API as a "resource" when using the attach function." | [original msg](https://discord.com/channels/1564700211660722243/1570488896519933952/1574444103557582938) |
+| [learnharness-math-integration](https://github.com/GGabrielDev/learnharness-math-integration) | [GaboGGamer](https://github.com/GGabrielDev/) | "Slightly more involved plugin to integrate both a LaTeX-friendly input support and a dedicated math question-type" | [original msg](https://discord.com/channels/1564700211660722243/1575255914355621908/1575255914355621908) |
 
 # Themes
 
