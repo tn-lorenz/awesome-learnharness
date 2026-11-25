@@ -19,6 +19,7 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 | [map](https://github.com/Jeshroop/learnharness-plugins/tree/main/map) | [Jeshroop](https://github.com/Jeshroop) | a map of the ideas you're learning, with an evidence log and a pass rule computed from it | n.a. |
 | [formats](https://github.com/Jeshroop/learnharness-plugins/tree/main/formats) | [Jeshroop](https://github.com/Jeshroop) | new question formats (fill in the blank, choose the graph) with an "Ask as…" switch and a Format button | n.a. |
 | [learnharness-anki-bridge](https://github.com/Singh-Mehtab/learnharness-anki-bridge) | [Singh-Mehtab](https://github.com/Singh-Mehtab) | Anki integration: turn nodes into flashcards and send them to Anki | [original msg](https://discord.com/channels/1564700211660722243/1573502198426632312/1573502198426632312) |
+| [Turn Chime](https://github.com/gabriel-603/turn-chime) | [gabriel-603](https://github.com/gabriel-603) | plays a selectable macOS alert sound when the tutor finishes a reply | n.a. |
 | [learnharness-zh-cn-language-pack](https://github.com/zdotta/learnharness-zh-plugin) | [zdotta](https://github.com/zdotta) | Simplified Chinese UI (DOM translation) + Chinese teaching instructions, in-app coverage report and content protection. MIT | n.a. |
 
 # Themes
