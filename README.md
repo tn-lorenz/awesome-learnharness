@@ -23,8 +23,11 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 | [learnharness-zh-cn-language-pack](https://github.com/zdotta/learnharness-zh-plugin) | [zdotta](https://github.com/zdotta) | Simplified Chinese UI (DOM translation) + Chinese teaching instructions, in-app coverage report and content protection. MIT | n.a. |
 
 # Themes
-Themes in learnharness are mostly a json file. So far, none of the theme creators have reached the conclusion to upload this json file somewhere outside of a discord chat, where it could easily be overlooked, and lost.
-We can only pray for those poor souls.
+
+> [!IMPORTANT]
+> Themes in learnharness are mostly a json file. So far, none of the theme creators have reached the conclusion to upload this json file somewhere outside of a discord chat, where it could easily be overlooked, and lost.
+> We can only pray for those poor souls.
+> This is why I have added their src to this repo. Please read [this](https://github.com/tn-lorenz/awesome-learnharness/blob/main/themes/README-THEMES.md).
 
 | Name | Author(s) | Showcase |
 | --- | --- | --- |
